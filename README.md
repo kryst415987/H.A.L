@@ -1,2 +1,0 @@
-# Trials
-My first attempts
